@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.lambdas;
+package com.kvvssut.tutorial.java8.lambdas;
 
 import java.util.Comparator;
 

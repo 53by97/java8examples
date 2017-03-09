@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.lambdas;
+package com.kvvssut.tutorial.java8.lambdas;
 // An entirely different class (should be in a separate file)
 	class MyRunnable implements Runnable {
 

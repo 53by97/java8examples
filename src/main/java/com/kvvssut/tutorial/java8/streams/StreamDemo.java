@@ -1,10 +1,10 @@
-package com.zapcg.tutorial.java8.streams;
+package com.kvvssut.tutorial.java8.streams;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import com.zapcg.tutorial.java8.lambdas.Person;
+import com.kvvssut.tutorial.java8.lambdas.Person;
 
 public class StreamDemo {
 

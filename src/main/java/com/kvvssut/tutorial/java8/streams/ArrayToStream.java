@@ -1,9 +1,9 @@
-package com.zapcg.tutorial.java8.streams;
+package com.kvvssut.tutorial.java8.streams;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-import com.zapcg.tutorial.java8.lambdas.Person;
+import com.kvvssut.tutorial.java8.lambdas.Person;
 
 public class ArrayToStream {
 

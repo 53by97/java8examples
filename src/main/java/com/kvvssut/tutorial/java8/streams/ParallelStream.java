@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.streams;
+package com.kvvssut.tutorial.java8.streams;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.datetime;
+package com.kvvssut.tutorial.java8.datetime;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

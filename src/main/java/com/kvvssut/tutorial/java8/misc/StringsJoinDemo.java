@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.misc;
+package com.kvvssut.tutorial.java8.misc;
 
 import java.util.ArrayList;
 import java.util.List;

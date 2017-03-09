@@ -1,4 +1,4 @@
-package com.zapcg.tutorial.java8.misc;
+package com.kvvssut.tutorial.java8.misc;
 
 import java.io.File;
 import java.io.FileReader;
