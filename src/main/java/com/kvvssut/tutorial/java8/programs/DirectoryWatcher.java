@@ -1,4 +1,4 @@
-package com.kvvssut.tutorial.java8.watchservice;
+package com.kvvssut.tutorial.java8.programs;
 
 import java.io.IOException;
 import java.nio.file.Files;
